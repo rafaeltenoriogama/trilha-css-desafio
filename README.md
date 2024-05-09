@@ -1,22 +1,47 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# Desafio: Trilha CSS da Dio Innovation One
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+## Descrição
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+<div style="text-align: justify;">
+Durante o curso foi apresentado todos os fundamentos do CSS, manipulação de imagem, texto, sombras e afins.
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+O objetivo deste desafio é colocar em uma página os conceitos apresentados, por isso, temos `background-fixed` para o efeito de movimento no meio da página. Alinhamento por ID, Classes, Atribuições e afins.
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+</div>
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+<div style="text-align: center;">
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+![GIF Readme](./assets/images/readme_gif.gif)
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+</div>
+
+## Conteúdo
+
+O projeto consiste em várias seções:
+
+- **Header**: Apresenta o logotipo da Trilha de CSS da DIO, um título e uma breve descrição do curso, junto com um botão de inscrição.
+- **O que vou aprender?**: Uma seção que lista os três módulos do curso.
+- **Transforme o mundo**: Uma seção destacando a missão da plataforma.
+- **Desafios profissionais**: Uma seção com um título, uma imagem e um parágrafo sobre a missão da DIO em preparar os alunos para as melhores oportunidades.
+- **Footer**: Contém o logotipo da DIO e um link para o site da plataforma.
+
+## Visualização
+
+Para visualizar o projeto, basta clonar este repositório e abrir o arquivo `index.html` em seu navegador.
+
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+
+#### Informações sobre o autor:
+
+- Projeto para o curso CSS de 46hrs que pertence ao caminho **FullStack Web Development**
+- Produzido com editor de texto **NeoVIM** usando _SpaceVIM_ como gerenciador de plugins.
+- Utilizado Sistema Operacional Gentoo Linux.
+
+<div style="text-align: center;">
+
+![PrintScr SpaceVIM](./assets/images/spacevim.png)
+
+</div>

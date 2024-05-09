@@ -169,3 +169,7 @@ footer a {
   font-weight: bold;
   text-decoration: none;
 }
+
+#p_footer {
+  font-size: 1.4rem;
+}
