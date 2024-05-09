@@ -2,18 +2,11 @@
 
 ## Descrição
 
-<div style="text-align: justify;">
 Durante o curso foi apresentado todos os fundamentos do CSS, manipulação de imagem, texto, sombras e afins.
 
 O objetivo deste desafio é colocar em uma página os conceitos apresentados, por isso, temos `background-fixed` para o efeito de movimento no meio da página. Alinhamento por ID, Classes, Atribuições e afins.
 
-</div>
-
-<div style="text-align: center;">
-
 ![GIF Readme](./assets/images/readme_gif.gif)
-
-</div>
 
 ## Conteúdo
 
@@ -40,8 +33,4 @@ Para visualizar o projeto, basta clonar este repositório e abrir o arquivo `ind
 - Produzido com editor de texto **NeoVIM** usando _SpaceVIM_ como gerenciador de plugins.
 - Utilizado Sistema Operacional Gentoo Linux.
 
-<div style="text-align: center;">
-
 ![PrintScr SpaceVIM](./assets/images/spacevim.png)
-
-</div>
